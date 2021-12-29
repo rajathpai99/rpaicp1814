@@ -19,9 +19,10 @@
     </passwordPolicies>
     <sessionSettings>
         <allowUserAuthenticationByCertificate>false</allowUserAuthenticationByCertificate>
-        <canConfirmEmailChangeInLightningCommunities>true</canConfirmEmailChangeInLightningCommunities>
+        <canConfirmEmailChangeInLightningCommunities>false</canConfirmEmailChangeInLightningCommunities>
         <canConfirmIdentityBySmsOnly>true</canConfirmIdentityBySmsOnly>
         <disableTimeoutWarning>false</disableTimeoutWarning>
+        <enableBuiltInAuthenticator>false</enableBuiltInAuthenticator>
         <enableCSPOnEmail>true</enableCSPOnEmail>
         <enableCSRFOnGet>true</enableCSRFOnGet>
         <enableCSRFOnPost>true</enableCSRFOnPost>
@@ -48,8 +49,9 @@
         <identityConfirmationOnTwoFactorRegistrationEnabled>true</identityConfirmationOnTwoFactorRegistrationEnabled>
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
-        <lockerServiceCSP>true</lockerServiceCSP>
+        <lockerServiceCSP>false</lockerServiceCSP>
         <lockerServiceNext>false</lockerServiceNext>
+        <lockerServiceNextControl>false</lockerServiceNextControl>
         <redirectionWarning>true</redirectionWarning>
         <referrerPolicy>true</referrerPolicy>
         <requireHttpOnly>false</requireHttpOnly>
@@ -60,7 +62,7 @@
         <enableCaseInsensitiveFederationID>false</enableCaseInsensitiveFederationID>
         <enableMultipleSamlConfigs>true</enableMultipleSamlConfigs>
         <enableSamlJitProvisioning>false</enableSamlJitProvisioning>
-        <enableSamlLogin>false</enableSamlLogin>
+        <enableSamlLogin>true</enableSamlLogin>
         <isLoginWithSalesforceCredentialsDisabled>false</isLoginWithSalesforceCredentialsDisabled>
     </singleSignOnSettings>
 </SecuritySettings>
