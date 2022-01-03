@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccCreation</members>
-        <members>Test_AccCreation</members>
-        <name>ApexClass</name>
+        <members>B AAA Server Resource (T-BRS-006 / 2e78bffe-39ab-fa38-87fb-865493843714)</members>
+        <name>Product2</name>
     </types>
     <version>53.0</version>
 </Package>
