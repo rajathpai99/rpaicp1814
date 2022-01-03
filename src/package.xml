@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>3G Data Plan outdated (C-DPP-004 / bbdf669f-af6a-0cb3-25ec-bc1cdbf8be91)</members>
+        <members>B AAA Server Resource (T-BRS-006 / 2e78bffe-39ab-fa38-87fb-865493843714)</members>
         <name>Product2</name>
     </types>
     <version>53.0</version>
