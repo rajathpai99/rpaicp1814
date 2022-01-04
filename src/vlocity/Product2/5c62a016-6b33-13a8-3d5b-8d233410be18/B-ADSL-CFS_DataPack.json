@@ -1,7 +1,7 @@
 {
     "%vlocity_namespace%__ApprovedBy__c": "",
     "%vlocity_namespace%__ApprovedOn__c": "",
-    "%vlocity_namespace%__AttributeAssignment__c": "ADSL-CFS_AttributeAssignments.json",
+    "%vlocity_namespace%__AttributeAssignment__c": "B-ADSL-CFS_AttributeAssignments.json",
     "%vlocity_namespace%__AttributeDefaultValues__c": {
         "ATT_DC_DP": 230980,
         "ATT_DC_TC": null,
@@ -15,7 +15,7 @@
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0J5f000000p6CEEAY",
+                "id": "a0J5f000000U2WpEAK",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -23,7 +23,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5f000000r2NcEAI",
+                            "attributeId": "a0K5f000000VvsuEAC",
                             "cloneable": true,
                             "code": "ATT_DT_CON",
                             "dataType": "text",
@@ -68,7 +68,7 @@
                 "Code__c": "ACAT_TECH",
                 "Name": "Technical Attributes",
                 "displaySequence": 100,
-                "id": "a0J5f000000p6CFEAY",
+                "id": "a0J5f000000U2WqEAK",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -76,7 +76,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K5f000000r2NeEAI",
+                            "attributeId": "a0K5f000000VvswEAC",
                             "cloneable": true,
                             "code": "ATT_DC_DP",
                             "dataType": "number",
@@ -102,7 +102,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K5f000000r2NfEAI",
+                            "attributeId": "a0K5f000000VvsxEAC",
                             "cloneable": true,
                             "code": "ATT_DC_TC",
                             "dataType": "text",
@@ -163,7 +163,7 @@
     },
     "%vlocity_namespace%__ObjectTypeName__c": "DSL Service CFS Spec",
     "%vlocity_namespace%__ParentClassId__c": "",
-    "%vlocity_namespace%__ProductChildItem__c": "ADSL-CFS_ProductChildItems.json",
+    "%vlocity_namespace%__ProductChildItem__c": "B-ADSL-CFS_ProductChildItems.json",
     "%vlocity_namespace%__ProductSpecId__c": "",
     "%vlocity_namespace%__ProductTemplateProductId__c": "",
     "%vlocity_namespace%__Scope__c": "Order Item",
@@ -190,7 +190,7 @@
     "Family": "",
     "IsActive": true,
     "IsArchived": false,
-    "Name": "ADSL CFS",
+    "Name": "B ADSL CFS",
     "NumberOfQuantityInstallments": "",
     "NumberOfRevenueInstallments": "",
     "ProductCode": "T-DSL-001",

@@ -19,7 +19,7 @@
             "VlocityMatchingRecordSourceKey": "Product2/5c62a016-6b33-13a8-3d5b-8d233410be18",
             "VlocityRecordSObjectType": "Product2"
         },
-        "%vlocity_namespace%__ParentProductName__c": "ADSL CFS",
+        "%vlocity_namespace%__ParentProductName__c": "B ADSL CFS",
         "%vlocity_namespace%__Quantity__c": 1,
         "%vlocity_namespace%__RelationshipType__c": "Child",
         "%vlocity_namespace%__SelectionMethodImplementation__c": "",
