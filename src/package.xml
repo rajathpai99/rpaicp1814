@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Accessories (ACAT_ACC)</members>
+        <members>Commodity Component (ACAT_COMM_COMPONENT)</members>
+        <members>Commodity Offer (ACAT_COMM_OFFER)</members>
+        <members>Internet Services (ATT_CODE_IS)</members>
+        <members>Mobile Devices (ACAT_Phones)</members>
+        <members>Mobile Plans (ACAT_Plans)</members>
+        <members>Services (ACAT_SVSLV)</members>
+        <members>Technical Attributes (ACAT_TECH)</members>
+        <name>AttributeCategory</name>
+    </types>
+    <types>
+        <members>BASE Service Spec Type (d8e9670e70a95a4ad38bdbac1c201471)</members>
+        <members>DSL Service CFS Spec (e713094d6e4a01c3e91e582f5c5a8683)</members>
+        <members>Product2 Object (63ba6ae5f8c257f7cdccc385d2a85dca)</members>
+        <name>ObjectClass</name>
+    </types>
+    <types>
         <members>B ADSL CFS (T-DSL-001 / 5c62a016-6b33-13a8-3d5b-8d233410be18)</members>
         <name>Product2</name>
+    </types>
+    <types>
+        <members>Accessory Type (8f2396eb-d0ad-4453-6476-5a48f8079a6d)</members>
+        <members>Brand (e195f3ed-1916-5667-8338-8962a8594730)</members>
+        <members>Capacity (e2801685-b02b-f5d9-3c76-e0e98b3c251c)</members>
+        <members>Colors (9f7e14b5-a539-d15a-d61c-53abeb66776e)</members>
+        <members>Connection Type (4040a25c-0977-9888-6f4d-dd704d276813)</members>
+        <members>Customer Category (8d0e3c13-f11c-7581-ea24-4ad0d6aa6776)</members>
+        <members>Data Limit (a6bc6591-1636-dd74-d815-1b724272858a)</members>
+        <members>Download Speed (971a78c7-b2ae-b389-7f0c-63d59e1cf3ca)</members>
+        <members>Duration (8ce5ee00-9671-11e6-dda1-62a62cd126e6)</members>
+        <members>Grade (5f65e7d2-e3cb-d119-87e7-34967e7a25ca)</members>
+        <members>Installation Type (2c738923-0b46-92a5-8935-9c150d2650b5)</members>
+        <members>Meter Type (eef45986-d6b7-689f-9383-f1f90add24f1)</members>
+        <members>Mobile OS (3657b259-2acf-449b-5d42-7a599dbdc4d6)</members>
+        <members>Mobile Plan Type (8465a6b3-dbb3-4e9f-92fc-84c95e269e92)</members>
+        <members>Number of Spotify Accounts (42e9c663-2f93-057c-2e2b-49db582d56fc)</members>
+        <members>Payment Type (88c2eeb6-c7b7-d6fe-0290-d0e0cba22abb)</members>
+        <members>Pricing Scheme (a22fe429-bbc2-eb1c-af0b-1fdc4519ef13)</members>
+        <members>Spotify Subscriptions (77c6ad97-3e70-a7a1-5fc0-0608128d56e8)</members>
+        <members>Storage Unit (42cbc478-139a-e4df-7af4-0683065803d4)</members>
+        <members>Upload Speed (a959a5b8-94bc-5dae-af7f-3857465d60c8)</members>
+        <name>VlocityPicklist</name>
     </types>
     <version>53.0</version>
 </Package>
