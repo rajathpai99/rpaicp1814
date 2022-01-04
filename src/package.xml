@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AccCreation</members>
-        <members>Test_AccCreation</members>
-        <name>ApexClass</name>
+        <members>C B ADSL CFS (T-DSL-001 / 5c62a016-6b33-13a8-3d5b-8d233410be18)</members>
+        <name>Product2</name>
     </types>
     <version>53.0</version>
 </Package>
