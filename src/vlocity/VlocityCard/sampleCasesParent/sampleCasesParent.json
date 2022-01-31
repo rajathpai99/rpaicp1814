@@ -21,13 +21,16 @@
             "vlocityAsync": false
         }
     },
+    "dynamicCanvasWidth": {
+        "type": "tablet_l"
+    },
     "enableLwc": true,
     "isFlex": true,
     "isRepeatable": true,
     "lwc": {
-        "DeveloperName": "cfSampleCasesParent_1_VU",
-        "Id": "0Rb1I0000004PMESA2",
-        "MasterLabel": "cfSampleCasesParent_1_VU",
+        "DeveloperName": "cfSampleCasesParent_2_VU",
+        "Id": "0Rb5f000002eLbACAU",
+        "MasterLabel": "cfSampleCasesParent_2_VU",
         "NamespacePrefix": "c"
     },
     "states": [
@@ -178,7 +181,7 @@
                             "property": {
                                 "card": "{card}",
                                 "collapsedByDefault": false,
-                                "collapsible": false,
+                                "collapsible": true,
                                 "label": "Block",
                                 "record": "{record}"
                             },
